@@ -2,3 +2,8 @@ body {
     color:rgb(255, 115, 115);
     background:rgb(230, 226, 226)
 }
+
+
+header{
+    border: solid 2px; 
+}
