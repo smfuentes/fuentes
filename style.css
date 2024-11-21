@@ -16,4 +16,6 @@ color: rgb (255, 115, 155);
 
 section {
     background: rgb(193, 193, 193);
+    padding-bottom: 80px;
+    padding-top: 80px;
 }
