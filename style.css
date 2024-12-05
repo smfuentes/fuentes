@@ -19,11 +19,12 @@ section {
     background: rgb(193, 193, 193);
     padding-bottom: 80px;
     padding-top: 80px;
-    padding-right: 5%;
+
     display: flex; 
   justify-content: center;
 }
 
 .chamda-texto{
     margin-right: 5%;
+    padding-right: 5%;
 }
